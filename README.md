@@ -1,5 +1,5 @@
 # 🌟 Welcome to Samukelisiwe Portia Nkosi's Portfolio!
-👩‍💻 Data Scientist | Statistician | data analyst| developer
+👩‍💻 Data Scientist | Statistician | Data analyst| Developer
 
 ## 👋 About Me
 Hi, I’m Samukelisiwe, a passionate data scientist with a strong foundation in statistics and computer science. I specialize in uncovering insights from data and building machine learning models that solve real-world problems.
@@ -63,7 +63,7 @@ Here are a few of the certifications I’ve earned to strengthen my expertise:
 
 💼 LinkedIn: (https://www.linkedin.com/in/samukelisiwe-nkosi-b2a417213/)
 🐱 GitHub: (https://github.com/samukelisiewenkosi)
-✉️ Email: samukelisiwenkosi27@gmsil.com
+✉️ Email: samukelisiwenkosi27@gmail.com
 🌟 Call-to-Action 0729331857
 Feel free to explore my projects, and let’s make data-driven magic happen! 🚀
 
